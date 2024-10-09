@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1dc237a6-dd27-4e55-93bf-96ef521c5fc0)<h1 align="center">Hi 👋, I'm Annaqitty</h1>
+<h1 align="center">Hi 👋, I'm Annaqitty</h1>
 <h3 align="center">A passionate full-stack developer from IDN</h3>
 
 <p align="center">
