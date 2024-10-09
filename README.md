@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Annaqitty</h1>
+![image](https://github.com/user-attachments/assets/1dc237a6-dd27-4e55-93bf-96ef521c5fc0)<h1 align="center">Hi 👋, I'm Annaqitty</h1>
 <h3 align="center">A passionate full-stack developer from IDN</h3>
 
 <p align="center">
@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://en.wikipedia.org/wiki/Common_Gateway_Interface" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Cgi_script_icon.svg" alt="cgi" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/95665/cgi-file-format-symbol.svg" alt="cgi" width="40" height="40"/> 
   </a>
 </p>
 
