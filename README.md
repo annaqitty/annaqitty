@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Annaqitty&label=Profile%20views&color=0e75b6&style=flat" alt="Annaqitty" />
-  <img src="https://img.shields.io/github/stars/Annaqitty/YourRepoName?color=yellow" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/Annaqitty/YourRepoName?color=orange" alt="Forks"/>
+  <img src="https://img.shields.io/github/stars/Annaqitty/GrabMAIL?color=yellow" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Annaqitty/GrabMAIL?color=orange" alt="Forks"/>
 </p>
 
 ---
