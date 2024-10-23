@@ -63,7 +63,7 @@
 
 <h3 align="left">Support:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/Annaqitty](https://paypal.me/chuakerz?country.x=ID&locale.x=id_ID" target="_blank">
+  <a href="https://paypal.me/chuakerz?country.x=ID&locale.x=id_ID" target="_blank">
     <img align="center" src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" height="40" width="217" />
   </a>
 </p>
