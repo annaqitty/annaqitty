@@ -56,7 +56,7 @@
 
 ---
 
-<h3 align="left">GitHub Streak:</h3>
+<p><br><h3 align="left">GitHub Streak:</h3></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Annaqitty&theme=radical" alt="Annaqitty" /></p>
 
 ---
@@ -68,4 +68,47 @@
   </a>
 </p>
 
-<!-- Replace "YourRepoName" with your actual GitHub repository name -->
+--- 
+
+<!-- Correct table for White Hat, Black Hat, Defender roles -->
+
+<div style="text-align: center;">
+  <table style="margin: 0 auto; text-align: center;">
+    <tr>
+      <th style="text-align: center;">White Hat</th>
+      <th style="text-align: center;">Black Hat</th>
+      <th style="text-align: center;">Defender</th>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <a href="https://github.com/annaqitty/white-hat">
+          <img src="https://cdn1.iconfinder.com/data/icons/cybercrime-internet-security-1/32/av-2-04-512.png" width="150" />
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://github.com/annaqitty/black-hat">
+          <img src="https://static.thenounproject.com/png/2724524-200.png" width="150" />
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://github.com/annaqitty/defender">
+          <img src="https://www.preemptive.com/wp-content/uploads/2024/02/Advance-obfuscation.png" width="150" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <strong><a href="https://github.com/annaqitty/white-hat">White Hat</a></strong>
+      </td>
+      <td style="text-align: center;">
+        <strong><a href="https://github.com/annaqitty/black-hat">Black Hat</a></strong>
+      </td>
+      <td style="text-align: center;">
+        <strong><a href="https://github.com/annaqitty/defender">Defender</a></strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
