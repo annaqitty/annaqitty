@@ -56,7 +56,7 @@
 
 ---
 
-<p><br><center><h3 align="left">GitHub Streak:</h3></p></center>
+<p><br><center><h3 align="left">Streak:</h3></p></center>
 <p><br><center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Annaqitty&theme=radical" alt="Annaqitty" /></p></center>
 
 ---
